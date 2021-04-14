@@ -10,6 +10,7 @@ A preprint version is available at: [arXiv](https://arxiv.org/abs/2104.05996)
 
 If you use our code, please cite the following:
 
+```
 @misc{pajola2021fall,
       title={Fall of Giants: How popular text-based MLaaS fall against a simple evasion attack},
       author={Luca Pajola and Mauro Conti},
@@ -18,3 +19,4 @@ If you use our code, please cite the following:
       archivePrefix={arXiv},
       primaryClass={cs.CR}
 }
+```
