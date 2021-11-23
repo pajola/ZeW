@@ -11,12 +11,14 @@ A preprint version is available at: [arXiv](https://arxiv.org/abs/2104.05996)
 If you use our code, please cite the following:
 
 ```
-@misc{pajola2021fall,
-      title={Fall of Giants: How popular text-based MLaaS fall against a simple evasion attack},
-      author={Luca Pajola and Mauro Conti},
-      year={2021},
-      eprint={2104.05996},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@INPROCEEDINGS{9581208,
+  author={Pajola, Luca and Conti, Mauro},
+  booktitle={2021 IEEE European Symposium on Security and Privacy (EuroS P)}, 
+  title={Fall of Giants: How popular text-based MLaaS fall against a simple evasion attack}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={198-211},
+  doi={10.1109/EuroSP51992.2021.00023}
 }
 ```
