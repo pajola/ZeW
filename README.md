@@ -3,7 +3,7 @@
 Official repository of ``ZeW`` attack described in ``Fall of Giants:How popular text-based MLaaS fall against a simple evasion attack``.
 
 
-This work is presented at the IEEE European Symposium on Security and Privacy 2021 (EuroS&P2021).
+This work is presented at the IEEE European Symposium on Security and Privacy 2021 (EuroS&P2021) [link](https://ieeexplore.ieee.org/document/9581208).
 
 
 A preprint version is available at: [arXiv](https://arxiv.org/abs/2104.05996)
